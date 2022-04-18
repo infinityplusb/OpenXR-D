@@ -13,3 +13,4 @@ openxr-d-test-*
 *.o
 *.obj
 *.lst
+source/_openxrd.d.backup
