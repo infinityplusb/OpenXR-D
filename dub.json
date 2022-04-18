@@ -1,9 +1,8 @@
 {
 	"authors": [
-		"brian"
+		"infinityplusb"
 	],
-	"copyright": "Copyright © 2022, brian",
-	"description": "A minimal D application.",
-	"license": "proprietary",
-	"name": "openxr-d",
+	"description": "Bindings for Khronos OpenXR library for Mixed Reality",
+	"license": "BSD 3-clause",
+	"name": "openxr-d"
 }
