@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/openxr-d
+openxr-d.so
+openxr-d.dylib
+openxr-d.dll
+openxr-d.a
+openxr-d.lib
+openxr-d-test-*
+*.exe
+*.o
+*.obj
+*.lst

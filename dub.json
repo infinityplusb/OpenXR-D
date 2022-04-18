@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"brian"
+	],
+	"copyright": "Copyright © 2022, brian",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "openxr-d",
+}
